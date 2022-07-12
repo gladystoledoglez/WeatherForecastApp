@@ -45,23 +45,23 @@
 
 ## App Screenshots:
 
-### Sample of São Paulo location weather
+### Sample of São Paulo location weather:
  * ![](app/screenshots/Screenshot_20220712_193454.png)
 
-
+### Sample of Sydney location weather:
  * ![](app/screenshots/Screenshot_20220712_193715.png)
 
-
+### Sample of New York location weather:
  * ![](app/screenshots/Screenshot_20220712_193756.png)
 
-
+### Sample of Madrid location weather:
  * ![](app/screenshots/Screenshot_20220712_193819.png)
 
-
+### Sample of Australia location weather:
  * ![](app/screenshots/Screenshot_20220712_193859.png)
 
-
+### Sample of Alaska location weather:
  * ![](app/screenshots/Screenshot_20220712_193924.png)
 
-
+### Sample of Seoul location weather:
  * ![](app/screenshots/Screenshot_20220712_194029.png)
