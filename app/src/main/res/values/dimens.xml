@@ -1,18 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <dimen name="none">0dp</dimen>
-    <dimen name="smallMargin">5dp</dimen>
+    <dimen name="half_small_dimen">2dp</dimen>
+    <dimen name="small_dimen">4dp</dimen>
+    <dimen name="half_default_dimen">8dp</dimen>
+    <dimen name="default_dimen">16dp</dimen>
 
-    <dimen name="noneWeight">0</dimen>
-    <dimen name="fullWeight">1</dimen>
+    <!--Sizes-->
+    <dimen name="image_header_size">50dp</dimen>
+    <dimen name="image_size">30dp</dimen>
 
-    <dimen name="cardElevation">1dp</dimen>
-    <dimen name="contentPadding">3dp</dimen>
-
-    <dimen name="maxImageSize">47dp</dimen>
-    <dimen name="imageButtonSize">60dp</dimen>
-
-    <dimen name="minTextSize">12sp</dimen>
-    <dimen name="middleTextSize">14sp</dimen>
-    <dimen name="maxTextSize">36sp</dimen>
+    <!--TextSizes-->
+    <dimen name="text_size">20sp</dimen>
 </resources>
