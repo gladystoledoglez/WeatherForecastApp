@@ -44,10 +44,23 @@
  * Internet access permission.
 
 ## App Screenshots:
+
  * ![](app/screenshots/Screenshot_20220712_193454.png)
+
+
  * ![](app/screenshots/Screenshot_20220712_193715.png)
+
+
  * ![](app/screenshots/Screenshot_20220712_193756.png)
+
+
  * ![](app/screenshots/Screenshot_20220712_193819.png)
+
+
  * ![](app/screenshots/Screenshot_20220712_193859.png)
+
+
  * ![](app/screenshots/Screenshot_20220712_193924.png)
+
+
  * ![](app/screenshots/Screenshot_20220712_194029.png)
