@@ -45,6 +45,7 @@
 
 ## App Screenshots:
 
+### Sample of São Paulo location weather
  * ![](app/screenshots/Screenshot_20220712_193454.png)
 
 
